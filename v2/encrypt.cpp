@@ -12,7 +12,7 @@ void prep(){
   }
 }
 
-const string YOURNAME = "abcdxyz"
+const string YOURNAME = "abcdxyz";
 
 /* If your variables contain these keyword, please change it, because my tool will replace them */
 unordered_map <string, string> kw_ob = {//{"int", "RWLRlfabcdxyzcxp"},
