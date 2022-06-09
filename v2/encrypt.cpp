@@ -37,7 +37,7 @@ unordered_map <string, string> kw_ob = {//{"int", "RWLRlfabcdxyzcxp"},
                                         {"push_back", "CYSvabcdxyzTz"},
                                         {"bool", "UAuabcdxyzcsmL"},
                                         {"begin", "ayFHzabcdxyzODQ"},
-                                        {"end", "DOhGCKabcdxyzDWVVTX"},
+//                                        {"end", "DOhGCKabcdxyzDWVVTX"}, (friend)
                                         {"printf", "OxQabcdxyzjPXf"},
                                         {"first", "mKabcdxyzyWM"},
                                         {"second", "NvQabcdxyzmT"},
